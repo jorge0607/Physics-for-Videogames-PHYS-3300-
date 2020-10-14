@@ -1,0 +1,9 @@
+﻿  main.cpp
+C:\Users\User\OneDrive\Documentos\Fisica de videojuegos\tareas del estudiante\E2.2 Jorge Tejada\E2.2 Jorge Tejada\main.cpp(84,18): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\OneDrive\Documentos\Fisica de videojuegos\tareas del estudiante\E2.2 Jorge Tejada\E2.2 Jorge Tejada\main.cpp(115,33): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\OneDrive\Documentos\Fisica de videojuegos\tareas del estudiante\E2.2 Jorge Tejada\E2.2 Jorge Tejada\main.cpp(126,17): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\User\OneDrive\Documentos\Fisica de videojuegos\tareas del estudiante\E2.2 Jorge Tejada\E2.2 Jorge Tejada\main.cpp(160,22): warning C4018: '<=': no coinciden signed/unsigned
+C:\Users\User\OneDrive\Documentos\Fisica de videojuegos\tareas del estudiante\E2.2 Jorge Tejada\E2.2 Jorge Tejada\main.cpp(254,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\OneDrive\Documentos\Fisica de videojuegos\tareas del estudiante\E2.2 Jorge Tejada\E2.2 Jorge Tejada\main.cpp(363,17): warning C4018: '<': no coinciden signed/unsigned
+C:\Users\User\OneDrive\Documentos\Fisica de videojuegos\tareas del estudiante\E2.2 Jorge Tejada\E2.2 Jorge Tejada\main.cpp(382,12): warning C4244: 'argumento': conversión de 'time_t' a 'unsigned int'; posible pérdida de datos
+  E2.2 Jorge Tejada.vcxproj -> C:\Users\User\OneDrive\Documentos\Fisica de videojuegos\tareas del estudiante\E2.2 Jorge Tejada\Debug\E2.2 Jorge Tejada.exe
